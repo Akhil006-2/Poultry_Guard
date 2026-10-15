@@ -1,0 +1,79 @@
+# =============================================================================
+# PoultryGuard — Git Ignore Configuration
+# =============================================================================
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment Variables & Secrets
+.env
+.env.local
+.env.*.local
+*.env
+!.env.example
+
+# Python Bytecode & Caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node.js & Frontend Dependencies
+node_modules/
+frontend/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+frontend/.vite/
+
+# Editors & Operating System
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Large Video Streams, Uploads & ZIP Archives (GitHub 100MB limit guard)
+*.zip
+*.tar.gz
+*.7z
+local_output/
+storage/uploads/*
+!storage/uploads/.gitkeep
+storage/frames/*
+!storage/frames/.gitkeep
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.m4v
+
+# SQLite Temporary WAL & SHM Files (Preserve data/poultryguard.sqlite3 & data/*.json)
+*.sqlite3-wal
+*.sqlite3-shm
+*.db-wal
+*.db-shm
+
+# Temporary test scratch directories
+runs/
+*.onnx
+eval_workspace/
+scratch/

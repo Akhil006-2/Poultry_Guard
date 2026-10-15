@@ -1,0 +1,163 @@
+{
+  "status": "success",
+  "dataset_name": "Aggregated Ground Truth (CBA + Poultry Behavior Dataset)",
+  "model_path": "C:\\Dev\\12hr\\PoultryGuard_Full\\yolov8s.pt",
+  "device": "cpu",
+  "evaluated_frames": 16,
+  "total_ground_truth_boxes": 1305,
+  "total_predicted_boxes": 99,
+  "metrics": {
+    "precision_50": 0.6162,
+    "recall_50": 0.0467,
+    "f1_score_50": 0.0868,
+    "mAP_50": 0.0668,
+    "mAP_50_95": 0.0206,
+    "true_positives_50": 61,
+    "false_positives_50": 38,
+    "false_negatives_missed_chickens_50": 1244,
+    "count_mae": 75.38,
+    "count_rmse": 107.62,
+    "mean_relative_error_pct": 67.1,
+    "processing_time_sec": 7.27,
+    "inference_latency_ms_per_frame": 454.4,
+    "evaluation_fps": 2.2
+  },
+  "per_frame_summary": [
+    {
+      "frame_id": "frame00001.png",
+      "ground_truth_count": 139,
+      "predicted_count": 18,
+      "count_error": -121,
+      "tp_50": 18,
+      "fp_50": 0,
+      "fn_50": 121
+    },
+    {
+      "frame_id": "frame07101.png",
+      "ground_truth_count": 65,
+      "predicted_count": 2,
+      "count_error": -63,
+      "tp_50": 1,
+      "fp_50": 1,
+      "fn_50": 64
+    },
+    {
+      "frame_id": "frame03801.png",
+      "ground_truth_count": 100,
+      "predicted_count": 2,
+      "count_error": -98,
+      "tp_50": 2,
+      "fp_50": 0,
+      "fn_50": 98
+    },
+    {
+      "frame_id": "frame01.png",
+      "ground_truth_count": 153,
+      "predicted_count": 0,
+      "count_error": -153,
+      "tp_50": 0,
+      "fp_50": 0,
+      "fn_50": 153
+    },
+    {
+      "frame_id": "frame03201.png",
+      "ground_truth_count": 186,
+      "predicted_count": 0,
+      "count_error": -186,
+      "tp_50": 0,
+      "fp_50": 0,
+      "fn_50": 186
+    },
+    {
+      "frame_id": "frame06701.png",
+      "ground_truth_count": 194,
+      "predicted_count": 0,
+      "count_error": -194,
+      "tp_50": 0,
+      "fp_50": 0,
+      "fn_50": 194
+    },
+    {
+      "frame_id": "frame001.png",
+      "ground_truth_count": 193,
+      "predicted_count": 2,
+      "count_error": -191,
+      "tp_50": 1,
+      "fp_50": 1,
+      "fn_50": 192
+    },
+    {
+      "frame_id": "frame00201.png",
+      "ground_truth_count": 158,
+      "predicted_count": 1,
+      "count_error": -157,
+      "tp_50": 1,
+      "fp_50": 0,
+      "fn_50": 157
+    },
+    {
+      "frame_id": "pbd_job4_f0",
+      "ground_truth_count": 14,
+      "predicted_count": 2,
+      "count_error": -12,
+      "tp_50": 1,
+      "fp_50": 1,
+      "fn_50": 13
+    },
+    {
+      "frame_id": "pbd_job4_f50",
+      "ground_truth_count": 14,
+      "predicted_count": 13,
+      "count_error": -1,
+      "tp_50": 6,
+      "fp_50": 7,
+      "fn_50": 8
+    },
+    {
+      "frame_id": "pbd_job4_f100",
+      "ground_truth_count": 16,
+      "predicted_count": 11,
+      "count_error": -5,
+      "tp_50": 7,
+      "fp_50": 4,
+      "fn_50": 9
+    },
+    {
+      "frame_id": "pbd_job4_f150",
+      "ground_truth_count": 15,
+      "predicted_count": 12,
+      "count_error": -3,
+      "tp_50": 5,
+      "fp_50": 7,
+      "fn_50": 10
+    },
+    {
+      "frame_id": "pbd_job4_f200",
+      "ground_truth_count": 16,
+      "predicted_count": 11,
+      "count_error": -5,
+      "tp_50": 7,
+      "fp_50": 4,
+      "fn_50": 9
+    },
+    {
+      "frame_id": "pbd_job4_f250",
+      "ground_truth_count": 15,
+      "predicted_count": 5,
+      "count_error": -10,
+      "tp_50": 4,
+      "fp_50": 1,
+      "fn_50": 11
+    },
+    {
+      "frame_id": "pbd_job4_f300",
+      "ground_truth_count": 14,
+      "predicted_count": 10,
+      "count_error": -4,
+      "tp_50": 4,
+      "fp_50": 6,
+      "fn_50": 10
+    }
+  ],
+  "validation_statement": "This report documents quantitative detector evaluation against manual ground-truth annotations. Scores represent actual measurement and confirm whether the active detector is a generic proxy or verified poultry model."
+}

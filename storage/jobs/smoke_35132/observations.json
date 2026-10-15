@@ -1,0 +1,1507 @@
+[
+  {
+    "frame_index": 0,
+    "timestamp_sec": 0.0,
+    "detections": 2,
+    "track_ids": [
+      1,
+      2
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          391,
+          216,
+          453,
+          271
+        ],
+        "confidence": 0.5631,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": 1
+      },
+      {
+        "xyxy": [
+          334,
+          260,
+          395,
+          304
+        ],
+        "confidence": 0.3631,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": 2
+      }
+    ],
+    "motion_ratio": 0.0,
+    "density_score": 0.02582
+  },
+  {
+    "frame_index": 3,
+    "timestamp_sec": 0.12,
+    "detections": 2,
+    "track_ids": [
+      1,
+      2
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          392,
+          215,
+          453,
+          270
+        ],
+        "confidence": 0.5201,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": 1
+      },
+      {
+        "xyxy": [
+          315,
+          258,
+          390,
+          312
+        ],
+        "confidence": 0.7043,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": 2
+      }
+    ],
+    "motion_ratio": 0.00302,
+    "density_score": 0.0324
+  },
+  {
+    "frame_index": 6,
+    "timestamp_sec": 0.24,
+    "detections": 2,
+    "track_ids": [
+      1,
+      2
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          392,
+          219,
+          450,
+          270
+        ],
+        "confidence": 0.74,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": 1
+      },
+      {
+        "xyxy": [
+          302,
+          256,
+          388,
+          320
+        ],
+        "confidence": 0.673,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": 2
+      }
+    ],
+    "motion_ratio": 0.00505,
+    "density_score": 0.03698
+  },
+  {
+    "frame_index": 9,
+    "timestamp_sec": 0.36,
+    "detections": 1,
+    "track_ids": [
+      1
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          386,
+          219,
+          451,
+          278
+        ],
+        "confidence": 0.412,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": 1
+      }
+    ],
+    "motion_ratio": 0.00316,
+    "density_score": 0.01667
+  },
+  {
+    "frame_index": 12,
+    "timestamp_sec": 0.48,
+    "detections": 2,
+    "track_ids": [],
+    "boxes": [
+      {
+        "xyxy": [
+          374,
+          227,
+          443,
+          262
+        ],
+        "confidence": 0.1872,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": null
+      },
+      {
+        "xyxy": [
+          309,
+          268,
+          345,
+          350
+        ],
+        "confidence": 0.1183,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": null
+      }
+    ],
+    "motion_ratio": 0.00653,
+    "density_score": 0.02344
+  },
+  {
+    "frame_index": 15,
+    "timestamp_sec": 0.6,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.0026,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 18,
+    "timestamp_sec": 0.72,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00234,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 21,
+    "timestamp_sec": 0.84,
+    "detections": 1,
+    "track_ids": [],
+    "boxes": [
+      {
+        "xyxy": [
+          302,
+          281,
+          348,
+          357
+        ],
+        "confidence": 0.1841,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": null
+      }
+    ],
+    "motion_ratio": 0.00151,
+    "density_score": 0.01517
+  },
+  {
+    "frame_index": 24,
+    "timestamp_sec": 0.96,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00375,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 27,
+    "timestamp_sec": 1.08,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00109,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 30,
+    "timestamp_sec": 1.2,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00375,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 33,
+    "timestamp_sec": 1.32,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00181,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 36,
+    "timestamp_sec": 1.44,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00189,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 39,
+    "timestamp_sec": 1.56,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00269,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 42,
+    "timestamp_sec": 1.68,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00307,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 45,
+    "timestamp_sec": 1.8,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00165,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 48,
+    "timestamp_sec": 1.92,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00214,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 51,
+    "timestamp_sec": 2.04,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00203,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 54,
+    "timestamp_sec": 2.16,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00184,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 57,
+    "timestamp_sec": 2.28,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00132,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 60,
+    "timestamp_sec": 2.4,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00576,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 63,
+    "timestamp_sec": 2.52,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00207,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 66,
+    "timestamp_sec": 2.64,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00248,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 69,
+    "timestamp_sec": 2.76,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00208,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 72,
+    "timestamp_sec": 2.88,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00276,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 75,
+    "timestamp_sec": 3.0,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00168,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 78,
+    "timestamp_sec": 3.12,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00479,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 81,
+    "timestamp_sec": 3.24,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00491,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 84,
+    "timestamp_sec": 3.36,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00394,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 87,
+    "timestamp_sec": 3.48,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.0017,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 90,
+    "timestamp_sec": 3.6,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00462,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 93,
+    "timestamp_sec": 3.72,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00259,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 96,
+    "timestamp_sec": 3.84,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.0024,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 99,
+    "timestamp_sec": 3.96,
+    "detections": 1,
+    "track_ids": [],
+    "boxes": [
+      {
+        "xyxy": [
+          317,
+          264,
+          395,
+          297
+        ],
+        "confidence": 0.2498,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": null
+      }
+    ],
+    "motion_ratio": 0.00031,
+    "density_score": 0.01083
+  },
+  {
+    "frame_index": 102,
+    "timestamp_sec": 4.08,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00177,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 105,
+    "timestamp_sec": 4.2,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00186,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 108,
+    "timestamp_sec": 4.32,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00142,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 111,
+    "timestamp_sec": 4.44,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00035,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 114,
+    "timestamp_sec": 4.56,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00045,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 117,
+    "timestamp_sec": 4.68,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00019,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 120,
+    "timestamp_sec": 4.8,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00222,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 123,
+    "timestamp_sec": 4.92,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00023,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 126,
+    "timestamp_sec": 5.04,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00033,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 129,
+    "timestamp_sec": 5.16,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00019,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 132,
+    "timestamp_sec": 5.28,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00064,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 135,
+    "timestamp_sec": 5.4,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.0,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 138,
+    "timestamp_sec": 5.52,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00047,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 141,
+    "timestamp_sec": 5.64,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00016,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 144,
+    "timestamp_sec": 5.76,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00016,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 147,
+    "timestamp_sec": 5.88,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00012,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 150,
+    "timestamp_sec": 6.0,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00108,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 153,
+    "timestamp_sec": 6.12,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00023,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 156,
+    "timestamp_sec": 6.24,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00132,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 159,
+    "timestamp_sec": 6.36,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00149,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 162,
+    "timestamp_sec": 6.48,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00363,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 165,
+    "timestamp_sec": 6.6,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.0021,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 168,
+    "timestamp_sec": 6.72,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00455,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 171,
+    "timestamp_sec": 6.84,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00043,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 174,
+    "timestamp_sec": 6.96,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00045,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 177,
+    "timestamp_sec": 7.08,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00063,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 180,
+    "timestamp_sec": 7.2,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00075,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 183,
+    "timestamp_sec": 7.32,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00102,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 186,
+    "timestamp_sec": 7.44,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00269,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 189,
+    "timestamp_sec": 7.56,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00694,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 192,
+    "timestamp_sec": 7.68,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.0126,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 195,
+    "timestamp_sec": 7.8,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.02542,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 198,
+    "timestamp_sec": 7.92,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.0238,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 201,
+    "timestamp_sec": 8.04,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00969,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 204,
+    "timestamp_sec": 8.16,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.008,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 207,
+    "timestamp_sec": 8.28,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00134,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 210,
+    "timestamp_sec": 8.4,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00075,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 213,
+    "timestamp_sec": 8.52,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00076,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 216,
+    "timestamp_sec": 8.64,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00023,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 219,
+    "timestamp_sec": 8.76,
+    "detections": 1,
+    "track_ids": [],
+    "boxes": [
+      {
+        "xyxy": [
+          128,
+          221,
+          185,
+          325
+        ],
+        "confidence": 0.2039,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": null
+      }
+    ],
+    "motion_ratio": 0.00028,
+    "density_score": 0.02528
+  },
+  {
+    "frame_index": 222,
+    "timestamp_sec": 8.88,
+    "detections": 1,
+    "track_ids": [],
+    "boxes": [
+      {
+        "xyxy": [
+          128,
+          221,
+          184,
+          325
+        ],
+        "confidence": 0.2486,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": null
+      }
+    ],
+    "motion_ratio": 0.00059,
+    "density_score": 0.02528
+  },
+  {
+    "frame_index": 225,
+    "timestamp_sec": 9.0,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00019,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 228,
+    "timestamp_sec": 9.12,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00156,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 231,
+    "timestamp_sec": 9.24,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00036,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 234,
+    "timestamp_sec": 9.36,
+    "detections": 1,
+    "track_ids": [
+      6
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          127,
+          216,
+          179,
+          321
+        ],
+        "confidence": 0.3261,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": 6
+      }
+    ],
+    "motion_ratio": 0.00061,
+    "density_score": 0.02347
+  },
+  {
+    "frame_index": 237,
+    "timestamp_sec": 9.48,
+    "detections": 1,
+    "track_ids": [
+      6
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          127,
+          217,
+          179,
+          322
+        ],
+        "confidence": 0.288,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": 6
+      }
+    ],
+    "motion_ratio": 0.00052,
+    "density_score": 0.02392
+  },
+  {
+    "frame_index": 240,
+    "timestamp_sec": 9.6,
+    "detections": 1,
+    "track_ids": [
+      6
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          127,
+          219,
+          177,
+          321
+        ],
+        "confidence": 0.5812,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": 6
+      }
+    ],
+    "motion_ratio": 0.00201,
+    "density_score": 0.02214
+  },
+  {
+    "frame_index": 243,
+    "timestamp_sec": 9.72,
+    "detections": 1,
+    "track_ids": [
+      6
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          127,
+          221,
+          176,
+          321
+        ],
+        "confidence": 0.5843,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": 6
+      }
+    ],
+    "motion_ratio": 0.0003,
+    "density_score": 0.0217
+  },
+  {
+    "frame_index": 246,
+    "timestamp_sec": 9.84,
+    "detections": 1,
+    "track_ids": [
+      6
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          126,
+          221,
+          176,
+          323
+        ],
+        "confidence": 0.6894,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": 6
+      }
+    ],
+    "motion_ratio": 0.00016,
+    "density_score": 0.02214
+  },
+  {
+    "frame_index": 249,
+    "timestamp_sec": 9.96,
+    "detections": 1,
+    "track_ids": [
+      6
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          126,
+          221,
+          175,
+          323
+        ],
+        "confidence": 0.5674,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": 6
+      }
+    ],
+    "motion_ratio": 0.00016,
+    "density_score": 0.02125
+  },
+  {
+    "frame_index": 252,
+    "timestamp_sec": 10.08,
+    "detections": 1,
+    "track_ids": [
+      6
+    ],
+    "boxes": [
+      {
+        "xyxy": [
+          126,
+          221,
+          175,
+          323
+        ],
+        "confidence": 0.5814,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": 6
+      }
+    ],
+    "motion_ratio": 0.00068,
+    "density_score": 0.02125
+  },
+  {
+    "frame_index": 255,
+    "timestamp_sec": 10.2,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00167,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 258,
+    "timestamp_sec": 10.32,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00033,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 261,
+    "timestamp_sec": 10.44,
+    "detections": 1,
+    "track_ids": [],
+    "boxes": [
+      {
+        "xyxy": [
+          127,
+          225,
+          176,
+          326
+        ],
+        "confidence": 0.1965,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": null
+      }
+    ],
+    "motion_ratio": 0.00056,
+    "density_score": 0.02214
+  },
+  {
+    "frame_index": 264,
+    "timestamp_sec": 10.56,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00502,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 267,
+    "timestamp_sec": 10.68,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00182,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 270,
+    "timestamp_sec": 10.8,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.0045,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 273,
+    "timestamp_sec": 10.92,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.0028,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 276,
+    "timestamp_sec": 11.04,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00514,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 279,
+    "timestamp_sec": 11.16,
+    "detections": 1,
+    "track_ids": [],
+    "boxes": [
+      {
+        "xyxy": [
+          146,
+          192,
+          204,
+          279
+        ],
+        "confidence": 0.1558,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": null
+      }
+    ],
+    "motion_ratio": 0.0025,
+    "density_score": 0.02165
+  },
+  {
+    "frame_index": 282,
+    "timestamp_sec": 11.28,
+    "detections": 1,
+    "track_ids": [],
+    "boxes": [
+      {
+        "xyxy": [
+          148,
+          191,
+          203,
+          274
+        ],
+        "confidence": 0.1355,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": null
+      }
+    ],
+    "motion_ratio": 0.00179,
+    "density_score": 0.01969
+  },
+  {
+    "frame_index": 285,
+    "timestamp_sec": 11.4,
+    "detections": 1,
+    "track_ids": [],
+    "boxes": [
+      {
+        "xyxy": [
+          148,
+          192,
+          205,
+          274
+        ],
+        "confidence": 0.1502,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": null
+      }
+    ],
+    "motion_ratio": 0.00172,
+    "density_score": 0.01993
+  },
+  {
+    "frame_index": 288,
+    "timestamp_sec": 11.52,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00054,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 291,
+    "timestamp_sec": 11.64,
+    "detections": 1,
+    "track_ids": [],
+    "boxes": [
+      {
+        "xyxy": [
+          148,
+          192,
+          211,
+          274
+        ],
+        "confidence": 0.1305,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": null
+      }
+    ],
+    "motion_ratio": 0.00014,
+    "density_score": 0.02207
+  },
+  {
+    "frame_index": 294,
+    "timestamp_sec": 11.76,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.0005,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 297,
+    "timestamp_sec": 11.88,
+    "detections": 1,
+    "track_ids": [],
+    "boxes": [
+      {
+        "xyxy": [
+          144,
+          191,
+          206,
+          275
+        ],
+        "confidence": 0.2036,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": null
+      }
+    ],
+    "motion_ratio": 0.0003,
+    "density_score": 0.0226
+  },
+  {
+    "frame_index": 300,
+    "timestamp_sec": 12.0,
+    "detections": 1,
+    "track_ids": [],
+    "boxes": [
+      {
+        "xyxy": [
+          144,
+          193,
+          218,
+          272
+        ],
+        "confidence": 0.1328,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": null
+      }
+    ],
+    "motion_ratio": 0.00314,
+    "density_score": 0.02569
+  },
+  {
+    "frame_index": 303,
+    "timestamp_sec": 12.12,
+    "detections": 1,
+    "track_ids": [],
+    "boxes": [
+      {
+        "xyxy": [
+          142,
+          195,
+          220,
+          274
+        ],
+        "confidence": 0.1324,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": null
+      }
+    ],
+    "motion_ratio": 0.00066,
+    "density_score": 0.02708
+  },
+  {
+    "frame_index": 306,
+    "timestamp_sec": 12.24,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00576,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 309,
+    "timestamp_sec": 12.36,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00163,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 312,
+    "timestamp_sec": 12.48,
+    "detections": 1,
+    "track_ids": [],
+    "boxes": [
+      {
+        "xyxy": [
+          169,
+          200,
+          246,
+          242
+        ],
+        "confidence": 0.1657,
+        "class_id": 14,
+        "class_name": "Bird (proxy)",
+        "track_id": null
+      }
+    ],
+    "motion_ratio": 0.00625,
+    "density_score": 0.01422
+  },
+  {
+    "frame_index": 315,
+    "timestamp_sec": 12.6,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.01406,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 318,
+    "timestamp_sec": 12.72,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.0076,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 321,
+    "timestamp_sec": 12.84,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00189,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 324,
+    "timestamp_sec": 12.96,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00458,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 327,
+    "timestamp_sec": 13.08,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00219,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 330,
+    "timestamp_sec": 13.2,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00264,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 333,
+    "timestamp_sec": 13.32,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00311,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 336,
+    "timestamp_sec": 13.44,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00316,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 339,
+    "timestamp_sec": 13.56,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00163,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 342,
+    "timestamp_sec": 13.68,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00344,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 345,
+    "timestamp_sec": 13.8,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00031,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 348,
+    "timestamp_sec": 13.92,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00155,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 351,
+    "timestamp_sec": 14.04,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00168,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 354,
+    "timestamp_sec": 14.16,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00172,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 357,
+    "timestamp_sec": 14.28,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.0009,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 360,
+    "timestamp_sec": 14.4,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00128,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 363,
+    "timestamp_sec": 14.52,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 3e-05,
+    "density_score": 0.0
+  },
+  {
+    "frame_index": 366,
+    "timestamp_sec": 14.64,
+    "detections": 0,
+    "track_ids": [],
+    "boxes": [],
+    "motion_ratio": 0.00054,
+    "density_score": 0.0
+  }
+]
